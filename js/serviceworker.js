@@ -1,4 +1,4 @@
-var CACHE_NAME = 'pwa-sample-cache-v2';
+var CACHE_NAME = 'pwa_test-cache';
 var urlsToCache = [
     '/',
     '/manifest.json',
